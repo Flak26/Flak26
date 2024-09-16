@@ -1,7 +1,7 @@
 # About me
 
 
-- 👋 Hi, I’m @Flak26
+- 👋 Hi, I’m @Flak26 and I'm 23.
 - 👀 I’m interested in physics and computer science
 - 🌱 I’m currently learning applied physics in a master degree at EPFL
 - 📫 How to reach me : use email flakohlerdu06@gmail.com
