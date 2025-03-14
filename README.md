@@ -5,13 +5,40 @@
 </picture>
 
 ---
+# Hi there! 👋 I'm Flavien Kohler
+
+### 🚀 About Me
+I am a **Master’s student in Applied Physics at EPFL**, passionate about **computational physics, machine learning, and numerical simulations**. My academic and personal projects revolve around **Monte Carlo methods, differential equations and Physics Simulations, using several numerical methods**.
+
+### 🔬 Interests:
+- Computational Physics & Simulations 🔢
+- Machine Learning for Science 🤖
+- Statistical Physics & Chaos Theory 📊
+- High-Performance Computing 🖥️
+
+### 🛠️ Tech Stack:
+- **Programming:** Python | C++ | MATLAB
+- **ML & Data Science:** PyTorch | NumPy | Scikit-learn
+- **Physics & Simulations:** Monte Carlo | PDE Solvers | Stochastic Processes
+- **Tools:** Git | Linux | LaTeX 
+
+### 📌 Featured Projects:
+🔹 **[Project 1: Monte Carlo Simulation for X](github.com/yourusername/project1)**  
+🔹 **[Project 2: Neural Networks for Scientific Data](github.com/yourusername/project2)**  
+🔹 **[Project 3: Chaos Theory Simulation](github.com/yourusername/project3)**  
+
+### 📫 Contact Me:
+📩 flakohlerdu06@gmail.com | 🔗 [LinkedIn Profile](https://www.linkedin.com/in/flavien-kohler-671063310) | 🖥️ [Website (if applicable)]  
+
+---
+Feel free to check out my repositories and connect with me!
+
 # About me
 
 - 👋 Hi, I’m @Flak26 and I'm 23.
 - 👀 I’m interested in physics and computer science
 - 🌱 I’m currently learning applied physics in a master degree at EPFL
 - 📫 How to reach me : use email flakohlerdu06@gmail.com
-- 😄 Pronouns: He/him
 - ⚡ Fun fact: Love cooking delicious food with friends and playing fifa while digesting.
 
 
